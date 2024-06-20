@@ -1,6 +1,6 @@
 <template>
-  <TheHeader></TheHeader>
-  <TheView></TheView>
+    <TheHeader></TheHeader>
+    <TheView></TheView>
 </template>
 
 <script setup>
