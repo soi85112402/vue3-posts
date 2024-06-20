@@ -1,6 +1,8 @@
 <template>
   <main>
-    <div class="container py-4">Hello Vue3!</div>
+    <div class="container py-4">
+      <RouterView></RouterView>
+    </div>
   </main>
 </template>
 
